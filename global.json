@@ -1,0 +1,90 @@
+[
+	{
+		"key": "otaID",
+		"type": "text",
+		"value": "tripAdvisor",
+		"enabled": true,
+		"overridden": false,
+		"hovered": false
+	},
+	{
+		"key": "interfaceID",
+		"value": "TAv7",
+		"type": "text",
+		"enabled": true,
+		"overridden": false,
+		"hovered": false
+	},
+	{
+		"key": "capture_contentType",
+		"type": "text",
+		"value": "application/json; charset=utf-8",
+		"enabled": true,
+		"overridden": false,
+		"hovered": false
+	},
+	{
+		"key": "interfaceID_Location",
+		"type": "text",
+		"value": "http://qa.otaconfig.inrd.io/api/v1/ota/tripAdvisor/interface/TAv7",
+		"enabled": true,
+		"overridden": false,
+		"hovered": false
+	},
+	{
+		"key": "otaID_Location",
+		"type": "text",
+		"value": "http://qa.otaconfig.inrd.io/api/v1/ota/tripAdvisor",
+		"enabled": true,
+		"overridden": false,
+		"hovered": false
+	},
+	{
+		"key": "push",
+		"value": "push",
+		"type": "text",
+		"enabled": true,
+		"overridden": false,
+		"hovered": false
+	},
+	{
+		"key": "amenityId",
+		"value": "1070",
+		"type": "text",
+		"enabled": true,
+		"overridden": false,
+		"hovered": false
+	},
+	{
+		"key": "propertyId",
+		"value": "2138",
+		"type": "text",
+		"enabled": true,
+		"overridden": false,
+		"hovered": false
+	},
+	{
+		"key": "roomClassId",
+		"value": "12840",
+		"type": "text",
+		"enabled": true,
+		"overridden": false,
+		"hovered": false
+	},
+	{
+		"key": "ratePlan",
+		"value": "1",
+		"type": "text",
+		"enabled": true,
+		"overridden": false,
+		"hovered": false
+	},
+	{
+		"key": "amenityName",
+		"value": "iPhone Charger",
+		"type": "text",
+		"enabled": true,
+		"overridden": false,
+		"hovered": false
+	}
+]
