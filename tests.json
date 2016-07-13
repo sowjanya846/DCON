@@ -12,7 +12,7 @@
 			"description": "",
 			"item": [
 				{
-					"name": "<Amenity> Get list of Amenity",
+					"name": "Get list of Amenity",
 					"event": [
 						{
 							"listen": "test",
